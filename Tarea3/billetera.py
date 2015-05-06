@@ -5,7 +5,7 @@ Created on 6/5/2015
 '''
 class billetera:
     '''
-    Clase de la billetera electronica
+    Clase de la billetera electronica.
     '''
 
      
